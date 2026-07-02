@@ -117,16 +117,3 @@ git config --global user.email "your_email@example.com"
 ```
 
 You only need to do this once per computer.
-
-### Authenticating with GitHub
-
-When you try to push code later, GitHub will ask you to authenticate. The easiest method for beginners:
-
-1. Install the [GitHub CLI](https://cli.github.com/) (`gh`), **or** use the credential manager that comes bundled with Git for Windows/Mac.
-2. Run:
-   ```
-   gh auth login
-   ```
-   and follow the prompts (choose GitHub.com, HTTPS, and log in via your browser).
-
-Alternatively, GitHub will prompt you to log in through a browser window automatically the first time you push — follow the on-screen instructions if that happens.
