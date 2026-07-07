@@ -1,0 +1,1 @@
+My project revolves around this system of four objects observed by JWST and HST in the GOODS-S field. The main goals are to characterize the overdensity these objects lie in (if any) and to constrain these objects' characteristics (i.e. mass, star formation rates/histories...)
